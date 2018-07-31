@@ -1,3 +1,5 @@
 Conversion functions needed:
 
-bla bla bla
+Dollars to cents
+feet to inches
+3rd Edit
